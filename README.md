@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Nishigandha Kurale
 
 🚀 Mid–Senior Platform Engineer | Former Site Reliability Engineer  
 🌍 Cloud | Infrastructure | Automation | Reliability | Networking  
