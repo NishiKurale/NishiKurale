@@ -90,10 +90,6 @@ Periskope
 ---
 
 ## 🌐 Networking & Edge
-<p> 
-  <img src="https://img.logokit.com/splunk.com" width="40"/>
-</p>
-
 NGINX  
 HAProxy  
 NetBox  
