@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nishigandha Kurale
 
-🚀 Mid–Senior Platform Engineer | Former Site Reliability Engineer  
+🚀 Mid–Senior Platform Engineer | Site Reliability Engineer  
 🌍 Cloud | Infrastructure | Automation | Reliability | Networking  
 
 I design, build, and scale secure, resilient, and observable cloud-native platforms.  
